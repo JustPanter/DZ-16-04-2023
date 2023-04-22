@@ -1,0 +1,5 @@
+D:\Обучение\DZ-16-04-2023\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+D:\Обучение\DZ-16-04-2023\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\DZ-16-04-2023\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+D:\Обучение\DZ-16-04-2023\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+D:\Обучение\DZ-16-04-2023\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
